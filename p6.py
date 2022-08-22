@@ -19,3 +19,7 @@ else:
         fact = fact * i
 
     print("The factorial of", num, "is", fact)
+    '''
+    compare your value with math.factorial.
+    print('factorial({}) = '.format(n), math.factorial(n))
+    '''
